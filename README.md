@@ -22,3 +22,14 @@ Deberás modificar la escena provista, con los siguientes objetivos:
 > # Aspectos a incluir en el entregable:
 Entregar el proyecto completo, con los scripts listos y la escena funcionando correctamente
 
+
+<p align="center">
+  <p align="center">    
+    <img src="./public/Demo.gif" alt="Applied-Colliders" >    
+  </p>
+  <p align="center">
+       CH-Applied-Colliders
+  </p>
+</p>
+
+
